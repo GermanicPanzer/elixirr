@@ -1,6 +1,6 @@
 ## Hello!
 This is not made by me. This just exists for an easier tutorial.<br> 
-If you want to go to the original, click here: https://github.com/whos-evan/elixir
+If you want to go to the original, click here: https://github.com/whos-evan/elixir<br>
 Anyways, here are the steps:<br>
 1. Click on the "Remix on Glitch" button.
 2. Wait.
